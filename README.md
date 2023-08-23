@@ -5,9 +5,8 @@ Linguagem de marcação, Markdown, criada em 2004 por John Gruber e parceria com
 
 # Readme.md (arquivo em linguagem markdown = (.md)
 
-**Este texto fica em Negrito**
-
-*Este texto fica em itálico*
+**"Este texto fica em Negrito"**.
+*"Este texto fica em itálico"*
 
 As três principais áreas em que se utiliza Markdown:
 1. README.md / ou arquivos.md
