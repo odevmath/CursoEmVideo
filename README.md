@@ -1,6 +1,7 @@
-# **Curso Em Vídeo**
- Repositório criado para aula de Git e GitHub do Curso em Video
----
+# **Curso Em Vídeo**.
+
+Repositório criado para aula de Git e GitHub do Curso em Video
+
 
 ## **Curso de Git e GitHub**
 ### Linguagem de marcação - Markdown
