@@ -1,18 +1,21 @@
-# *Curso Em Vídeo*
+# **Curso Em Vídeo**
  Repositório criado para aula de Git e GitHub do Curso em Video
+---
 
-Linguagem de marcação, Markdown, criada em 2004 por John Gruber e parceria com Aaron Swartz. 
+## **Curso de Git e GitHub**
+### Linguagem de marcação - Markdown
+***
+_A linguagem __Markdown__ foi desenvolvida em 2004, por **John Gruber** e **Aaron Swortz**_
 
-# Readme.md (arquivo em linguagem markdown = (.md)
-
-**"Este texto fica em Negrito"**.
-*"Este texto fica em itálico"*
+Readme.md (arquivo em linguagem markdown = (.md)
 
 As três principais áreas em que se utiliza Markdown:
 1. README.md / ou arquivos.md
-2. Issues
+1. Issues
 3. Pull requests
+(exemplo dado assim para mostrar que a ordem dos número não importa, desde que seja mantido a regra)
 
 Outras duas preocupações de Gruber e Swortz:
-1. Simples de ler;
-2. fácil de se converter de .md par .html
+* Simples de ler;
+* fácil de se converter de .md par .html;
+   * três espaços seguido de um asterisco (ou traço) irá criar um subtópico, o mesmo server para uma lista enumerada.
