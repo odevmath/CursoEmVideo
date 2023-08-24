@@ -1,33 +1,25 @@
-# **Curso Em Vídeo**.
+# **Curso Em Vídeo** (Repositório criado para aula de Git e GitHub do Curso em Video)
+---
 
-Repositório criado para aula de Git e GitHub do Curso em Video
+## Markdown - linguagem de marcação
 
-
-## **Curso de Git e GitHub**
-### Linguagem de marcação - Markdown
-***
-_A linguagem __Markdown__ foi desenvolvida em 2004, por **John Gruber** e **Aaron Swortz**_
-
-Readme.md (arquivo em linguagem markdown = (.md)
+_A linguagem __Markdown__ foi desenvolvida em 2004, por **John Gruber** e **Aaron Swortz**. O motivo de levá-los a criá-la foi porque lendo **HTML**, John Gruber chegou a conclusão de que a linguagem não era tão fácil de se ler, pois muitos códigos abraçavam os textos, depois de ver o projeto desenvolvido era fácil enxergar, mas durante o desenvolvimento, textos e comandos muitas vezes se misturavam às vistas. O Readme.md (arquivo em linguagem markdown = ```arquivo_de_texto.md```_
 
 As três principais áreas em que se utiliza Markdown:
-1. README.md / ou arquivos.md
-1. Issues
+1. README.md / ou arquivos.md;
+1. Issues;
 3. Pull requests
-(exemplo dado assim para mostrar que a ordem dos número não importa, desde que seja mantido a regra)
+   1. Exemplificando que a ordem dos número não importa, desde que seja mantido o formato de escrita;
+---
+## Vamos aos comandos
 
-Outras duas preocupações de Gruber e Swortz:
-* Simples de ler;
-* fácil de se converter de .md par .html;
-   * três espaços seguidos de um asterisco (ou traço) irá criar um subtópico, o mesmo server para uma lista enumerada (em que a identação irá apresentar números romanos).
+__*"É possível misturar as configurações como negrito e itálico, como nesta mesma frase!*__.
 
-__*Também é possível misturar as configurações, tipo negrito e itálico, como nesta mesma frase!*__.
-
-Lista de tarefas
+### Lista de tarefas
 - [x] Crar a página principal
 - [x] Criar a página da loja
-- [] Reunião com cliente
-- [] Pagamento
+- [ ] Reunião com cliente
+- [ ] Pagamento
 ---
 É possível criar hiperlink em frases, por exemplo:
 Acesse meu GitHub (clicando aqui)[https://github.com/omathsantos]
@@ -37,10 +29,10 @@ A estrutura a seguir serve para criar tabelas:
 Núm | Nome | Formação | Observações
 ---|---|---|---
 1 | Matheus | Ciência da Computação | Em formação
-3 | Aline | Psicologia | Formada
-2 | Felipe | Psicologia | Estudo pré-vestibular
-3 | Victória | Biomedicina | Estudo pré-vestibular
-4 | Amanda | Marketing e Publicidade | Formada
+2 | Aline | Psicologia | Formada
+3 | Felipe | Psicologia | Estudo pré-vestibular
+4 | Victória | Biomedicina | Estudo pré-vestibular
+5 | Amanda | Marketing e Publicidade | Formada
 
 Fim da tabela
 ---
@@ -55,4 +47,13 @@ if num % 2 == 0;
 else:
   print(f'O valor {num} é ÍMPAR')
 ```
+Outro método é enviando a imagem, desde que não seja muit grande.
+_(Obs.: Comigo a função "arrastar e soltar" na barra abaixo do conteúdo onde diz "Attach files by dragging & dropping, selecting or pasting them" não deu muito certo, mas clicando ali abre o "explorador de arquivos" - Windows, ou "Files" - Mac or Linux)._
 
+**Exemplo:**
+
+![Screenshot from 2023-08-23 22-08-53](https://github.com/omathsantos/CursoEmVideo/assets/88942151/17805c33-ca10-4de2-b99c-cb5a3718ba31)
+
+### Emojis:
+
+Fala, galera! tudo bem? 
