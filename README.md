@@ -37,6 +37,7 @@ A estrutura a seguir serve para criar tabelas:
 Núm | Nome | Formação | Observações
 ---|---|---|---
 1 | Matheus | Ciência da Computação | Em formação
+3 | Aline | Psicologia | Formada
 2 | Felipe | Psicologia | Estudo pré-vestibular
 3 | Victória | Biomedicina | Estudo pré-vestibular
 4 | Amanda | Marketing e Publicidade | Formada
