@@ -1,4 +1,4 @@
-![CursoEmVideoLogo](https://github.com/omathsantos/CursoEmVideo/assets/88942151/87e26781-1f68-4f53-af31-ba33e619c270)
+![Git_GitHub](https://github.com/omathsantos/CursoEmVideo/assets/88942151/67cd005c-2ec7-4767-9a53-da68ade88a12)
 
 
 # Repositório criado para aula de Git e GitHub do Curso em Video
