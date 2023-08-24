@@ -70,4 +70,5 @@ Existe um perfil no GitHub que é da @ikatyang (se isso fosse uma **issue**, ela
 
 Perfil da 👉 [ikatyang](https://github.com/ikatyang)
 Repositório ikatyang com os emojis seus respectivos nomes (em Markdown) 👉 [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+
 ---
