@@ -6,7 +6,8 @@
 
 ---
 
-## Markdown - linguagem de marcação
+![Markdown](https://github.com/omathsantos/CursoEmVideo/assets/88942151/05c382a8-1de9-4066-adad-e9f3c939b39f)
+
 
 _A linguagem __Markdown__ foi desenvolvida em 2004, por **John Gruber** e **Aaron Swortz**. O motivo de levá-los a criá-la foi porque lendo **HTML**, John Gruber chegou a conclusão de que a linguagem não era tão fácil de se ler, pois muitos códigos abraçavam os textos, depois de ver o projeto desenvolvido era fácil enxergar, mas durante o desenvolvimento, textos e comandos muitas vezes se misturavam às vistas. O Readme.md (arquivo em linguagem markdown = ```arquivo_de_texto.md```_
 
