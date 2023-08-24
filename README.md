@@ -60,7 +60,14 @@ _(Obs.: Comigo a função "arrastar e soltar" na barra abaixo do conteúdo onde 
 
 ![Screenshot from 2023-08-23 22-08-53](https://github.com/omathsantos/CursoEmVideo/assets/88942151/7ae9d1bf-32f8-435d-a367-9f9bd73d4f39)
 
+---
 
-### Emojis:
+### Emojis 😄
 
-Fala, galera! tudo bem? 
+Para usar emojis, basta escrever a expressão/nome do emoji entre dois pontos, :emoji:
+
+Existe um perfil no GitHub que é da @ikatyang (se isso fosse uma **issue**, ela seria marcada aqui devido ao uso do @)
+
+Perfil da 👉 [ikatyang](https://github.com/ikatyang)
+Repositório ikatyang com os emojis seus respectivos nomes (em Markdown) 👉 [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+---
