@@ -19,4 +19,13 @@ As três principais áreas em que se utiliza Markdown:
 Outras duas preocupações de Gruber e Swortz:
 * Simples de ler;
 * fácil de se converter de .md par .html;
-   * três espaços seguido de um asterisco (ou traço) irá criar um subtópico, o mesmo server para uma lista enumerada.
+   * três espaços seguidos de um asterisco (ou traço) irá criar um subtópico, o mesmo server para uma lista enumerada (em que a identação irá apresentar números romanos).
+
+__*Também é possível misturar as configurações, tipo negrito e itálico*__.
+
+Lista de tarefas
+- [x] Crar a página principal
+- [x] Criar a página da loja
+- [] Reunião com cliente
+- [] Pagamento
+
