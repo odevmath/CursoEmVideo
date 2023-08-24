@@ -1,4 +1,9 @@
-# **Curso Em Vídeo** (Repositório criado para aula de Git e GitHub do Curso em Video)
+![CursoEmVideoLogo](https://github.com/omathsantos/CursoEmVideo/assets/88942151/87e26781-1f68-4f53-af31-ba33e619c270)
+
+
+# Repositório criado para aula de Git e GitHub do Curso em Video
+
+
 ---
 
 ## Markdown - linguagem de marcação
@@ -52,7 +57,8 @@ _(Obs.: Comigo a função "arrastar e soltar" na barra abaixo do conteúdo onde 
 
 **Exemplo:**
 
-![Screenshot from 2023-08-23 22-08-53](https://github.com/omathsantos/CursoEmVideo/assets/88942151/17805c33-ca10-4de2-b99c-cb5a3718ba31)
+![Screenshot from 2023-08-23 22-08-53](https://github.com/omathsantos/CursoEmVideo/assets/88942151/7ae9d1bf-32f8-435d-a367-9f9bd73d4f39)
+
 
 ### Emojis:
 
