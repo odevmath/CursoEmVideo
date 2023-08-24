@@ -74,4 +74,4 @@ Repositório ikatyang com os emojis seus respectivos nomes (em Markdown) 👉 [e
 
 ---
 
-
+[Link do Guia Markdown - Completo](https://github.com/omathsantos/CursoEmVideo/blob/main/Documentos/guia-markdown.pdf)
